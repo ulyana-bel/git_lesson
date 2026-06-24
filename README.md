@@ -50,6 +50,6 @@
 7. Сделайте пуш в основной ветке.
 8. Не удаляйте ветку dev.
 
-
+Сcылка на [граф коммита](https://github.com/ulyana-bel/git_lesson/network)
 
 ---
